@@ -1,3 +1,5 @@
+# Fechei todos repositórios. Estou reorganizando....
+
 ## 🚀 Sobre mim
 
 Olá! Sou Aminadabes Filho, um desenvolvedor fullstack com experiência em algumas tecnologias, incluindo Java, Spring Boot, APIs RESTful, AngularJS, Angular 13, JavaScript, TypeScript, Wildfly, JBOSS, Maven, DB2, e Sonar. Atualmente, trabalho pela Globalhitss, atuando no desenvolvimento de sistemas para o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, focando tanto na sustentação de legados quanto na criação de novos projetos que buscam transformar realidades.
