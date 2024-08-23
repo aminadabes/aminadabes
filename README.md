@@ -4,4 +4,18 @@ Olá! Sou Aminadabes Filho, um desenvolvedor fullstack com experiência em algum
 
 Além da minha experiência em TI, sou formado em Teologia, o que reflete meu interesse por ajudar as pessoas, não só através da tecnologia, mas também por meio de uma visão humanitária, ética e espiritual. Acredito que a tecnologia pode ser uma poderosa ferramenta para promover melhorias sociais e contribuir para o bem comum.
 
-🚀 Tecnologias e Hab
+## 🚀 Tecnologias e Habilidades
+
+Back-End: Java, Spring Boot, APIs RESTful.\
+Front-End: AngularJS, Angular 13, JavaScript, TypeScript.\
+Servidor de Aplicação: Wildfly, JBOSS.\
+Bancos de Dados: DB2, MySql, Postgres.\
+Automação e Qualidade: Maven, Sonar, JUnit.
+
+## 💡 Filosofia e Visão
+
+Minha formação como teólogo me trouxe uma perspectiva única: a tecnologia, além de ser uma ferramenta poderosa para resolver problemas técnicos, também pode servir para ajudar as pessoas, melhorar vidas e contribuir para uma sociedade mais justa e inclusiva. Gosto de colaborar em projetos que impactam positivamente e busco sempre encontrar formas de usar minhas habilidades para o bem comum.
+
+## 📬 Vamos conversar?
+
+Se você compartilha dessa visão ou gostaria de discutir sobre tecnologia, desenvolvimento ou teologia, sinta-se à vontade para entrar em contato comigo. Adoro colaborar e explorar novas ideias.
